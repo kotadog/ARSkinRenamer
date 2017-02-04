@@ -1,0 +1,1182 @@
+{
+    "PathToSkins" : "C:/Users/Clemzy/Documents/AtlasReactor/Wiki/AtlasReactor_FSK_Jan2017c/FSK/Skins",
+    "Lancers" : [
+        {
+            "Name" : "Asana",
+            "Display_Name" : "Asana",
+            "Skins" : {
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Aerocarbon",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Steeled",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Scorched",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Byzantium",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Blood Sport",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "001_000",
+                        "Name" : "Bruised Ego",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "001_003",
+                        "Name" : "Golden Warrior",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "001_004",
+                        "Name" : "Razer Chroma",
+                        "Rarity" : "L"
+                    }
+                ],
+                "knight" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Necrolancer",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Dark Knight",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Ravager",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Ultraviolent",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Molten",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Queensguard",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Prime",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "Ash and Bone",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "Dark Ranger",
+                        "Rarity" : "E"
+                    }
+                ],
+                "wings" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Hardlight",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Charred",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Blue Angel",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Cardinal",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_000",
+                        "Name" : "Ferrochrome",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_003",
+                        "Name" : "Trooper",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_004",
+                        "Name" : "Chrysalis",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "001_005",
+                        "Name" : "Electrum",
+                        "Rarity" : "L"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "Aurora",
+            "Display_Name" : "Aurora",
+            "Skins" : {
+                "ascension" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Voltaic",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Blackgold",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Alkaline",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Lithium",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Acid",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Scorched",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Emerald",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "Ferrochrome",
+                        "Rarity" : "L"
+                    }
+                ],
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Blaze",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Radon",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Argon",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Krypton",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Xenon",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Carbon",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_009",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    }
+                ],
+                "dark" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Necrolancer",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Dark Matter",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Blight",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Frostbite",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Spectral",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Ravager",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Molten",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "Oblivion",
+                        "Rarity" : "M"
+                    }
+                ],
+                "princess" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "UNKNOWN",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "UNK4",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "UNK5",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "UNK6",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "UNK7",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "UNK8",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK9",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK10",
+                        "Rarity" : "U"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "BlackBurn",
+            "Display_Name" : "Blackburn",
+            "Skins" : {
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Ares 1 Protosuit",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Squad Leader",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Waste Warfare",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Arctic Ops",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Redox",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "God of War",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "The Last Soldier",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_009",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    }
+                ],
+                "eliminator" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Eliminator",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Killer Robot",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Emotionless Executioner",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Spectral",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Crimson Cyborg",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Morpheus",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Prime",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "Scorched",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_009",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "Celeste",
+            "Display_Name" : "Celeste",
+            "Skins" : {
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Narcissus",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Imperial",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Lime",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Citadel",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Scorched",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Blood Sport",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Swindler",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_009",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    }
+                ],
+                "dress" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Masquerade",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Quartz",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Sapphire",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Jade",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Ruby",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Cardinal",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Ivory",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Beryl",
+                        "Rarity" : "E"
+                    }
+                ],
+                "actress-UNKNOWN" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Leading Lady",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "UNKNOWN",
+                        "Name" : "As You Wish",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "UNKNOWN",
+                        "Name" : "Beloved",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "UNKNOWN",
+                        "Name" : "Heartbreaker",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "UNKNOWN",
+                        "Name" : "Twue Wuv",
+                        "Rarity" : "M"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "DrFinn",
+            "Display_Name" : "Dr. Finn",
+            "Skins" : {
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Medicine Fish",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Oceanic",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Photosynthetic",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Ultraviolet",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Omega-12",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Red Tide",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Sterling Surfer",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_009",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_010",
+                        "Name" : "Razer Chroma",
+                        "Rarity" : "L"
+                    }
+                ],
+                "exotic" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Primal",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Clownin'",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Fishphorescent",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Ultramarine",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Terror of the Depths",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Coral",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "King of the Sea",
+                        "Rarity" : "M"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "Elle",
+            "Display_Name" : "Elle",
+            "Skins" : {
+                "apocalypse" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Apocalypse",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Wastelander",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Hunter",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Ultraviolent",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "The Blues",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Blood Sport",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Prime",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Glacier",
+                        "Rarity" : "E"
+                    }
+                ],
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Guerrilla",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Garnet'",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Turquoise",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Citadel",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Solace",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Licorice",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Silver Age",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_009",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_010",
+                        "Name" : "Razer Chroma",
+                        "Rarity" : "L"
+                    }
+                ],
+                "military" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Great War",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Commandant'",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Attache",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Captain",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Major",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "Admiral",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "General",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Martial",
+                        "Rarity" : "L"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "Garrison",
+            "Display_Name" : "Garrison",
+            "Skins" : {
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Savage Steel",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Pewter",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Citadel",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Desert Iron",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "Razer Chroma",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_000",
+                        "Name" : "Camouflage",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "001_001",
+                        "Name" : "Ferrochrome",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "001_004",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_006",
+                        "Name" : "Golden Warrior",
+                        "Rarity" : "M"
+                    }
+                ],
+                "demo" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Prototype",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Bronzed",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Chromoly",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Morpheus",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "Electrum",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_000",
+                        "Name" : "Destroyer",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_001",
+                        "Name" : "Linotype",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_003",
+                        "Name" : "Steel Scale",
+                        "Rarity" : "M"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "GremolitionsInc",
+            "Display_Name" : "Gremolitions Inc.",
+            "Skins" : {
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Syndite",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Prototype",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Blood Sport",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_004",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_000",
+                        "Name" : "Photosynthetic",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "001_001",
+                        "Name" : "Mutation",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "001_002",
+                        "Name" : "Ultraviolet",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "001_003",
+                        "Name" : "Exobionic",
+                        "Rarity" : "M"
+                    }
+                ],
+                "santa" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Santa-UNKNOWN",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    }
+                ],
+                "army" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Great War",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Flak",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Tango",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Navy",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_000",
+                        "Name" : "Industrial",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_001",
+                        "Name" : "Crusader",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_003",
+                        "Name" : "Academy",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_004",
+                        "Name" : "Golden Warrior",
+                        "Rarity" : "M"
+                    }
+                ]
+            }
+        },
+        {
+            "Name" : "Grey",
+            "Display_Name" : "Grey",
+            "Skins" : {
+                "base" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Stalker",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Amber",
+                        "Rarity" : "C"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Charred",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_003",
+                        "Name" : "Turquoise",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Bloodlust",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "000_006",
+                        "Name" : "UNK1",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_007",
+                        "Name" : "UNK2",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_008",
+                        "Name" : "UNK3",
+                        "Rarity" : "U"
+                    },
+                    {
+                        "Id": "000_009",
+                        "Name" : "Golden Age",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_001",
+                        "Name" : "Hunter",
+                        "Rarity" : "R"
+                    },
+                    {
+                        "Id": "001_002",
+                        "Name" : "Citadel",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "001_004",
+                        "Name" : "Pearlite",
+                        "Rarity" : "L"
+                    }
+                ],
+                "tribal" : [
+                    {
+                        "Id": "Name",
+                        "Name" : "Untamed",
+                        "Rarity" : "Name"
+                    },
+                    {
+                        "Id": "000_000",
+                        "Name" : "Hawk",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_001",
+                        "Name" : "Sparhawk",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "000_002",
+                        "Name" : "Falcon",
+                        "Rarity" : "L"
+                    },
+                    {
+                        "Id": "000_005",
+                        "Name" : "Raven",
+                        "Rarity" : "M"
+                    },
+                    {
+                        "Id": "001_001",
+                        "Name" : "Shikra",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_002",
+                        "Name" : "Spectral",
+                        "Rarity" : "E"
+                    },
+                    {
+                        "Id": "001_003",
+                        "Name" : "Talon",
+                        "Rarity" : "L"
+                    }
+                ]
+            }
+        }
+    ]
+}
