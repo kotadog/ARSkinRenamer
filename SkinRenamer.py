@@ -2,19 +2,24 @@ import os
 import shutil
 from ARSkinFilenameParser import ARSkinFilenameParser
 from ARConfigReader import ARConfigReader
+import ARArgParser
 
 
 class RenameSkinsAR:
-    def __init__(self, config_file):
+    def __init__(self, config_file, path_to_skins=None):
         self.config_reader = ARConfigReader(config_file)
         self.arsfp = ARSkinFilenameParser()
+        self.path_to_skins = path_to_skins
 
     def get_dir(self):
-        path_to_skins = self.config_reader.get_path_to_skins()
-        if path_to_skins:
-            folder = path_to_skins
+        if self.path_to_skins is None:
+            path_to_skins = self.config_reader.get_path_to_skins()
         else:
+            path_to_skins = self.path_to_skins
+        if path_to_skins is None:
             folder = os.path.dirname(os.path.realpath(__file__))
+        else:
+            folder = path_to_skins
         return folder
 
     def get_output_dir(self):
@@ -154,6 +159,10 @@ class RenameSkinsAR:
         print "".join(['Renamed images can be found at: ', output_dir])
 
 
-config_file = 'config.json'
-new_skins = RenameSkinsAR(config_file)
-new_skins.run(['Garrison'])
+args = vars(ARArgParser.parse())
+new_skins = RenameSkinsAR(args['config'], path_to_skins=args['skin_dir'])
+new_skins.run([args['lancer']])
+
+#config_file = 'config.json'
+#new_skins = RenameSkinsAR(config_file)
+#new_skins.run(['Garrison'])
