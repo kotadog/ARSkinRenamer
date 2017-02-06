@@ -60,4 +60,5 @@ ConfigConverter.py c2j (csv to json) - default output is to file 'config.json' i
 ConfigConverter.py j2c (json to csv) - default output is to folder 'csvs' in local directory.
 
 
-##
+##Other files
+All other files are used by the above files and not used directly in any fashion.
