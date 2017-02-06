@@ -1,1182 +1,6283 @@
-{
-    "PathToSkins" : "C:/Users/Clemzy/Documents/AtlasReactor/Wiki/AtlasReactor_FSK_Jan2017c/FSK/Skins",
-    "Lancers" : [
+[
+  {
+    "lancer_name": "Asana", 
+    "display_name": "Asana", 
+    "Skins": {
+      "knight": [
         {
-            "Name" : "Asana",
-            "Display_Name" : "Asana",
-            "Skins" : {
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Aerocarbon",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Steeled",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Scorched",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Byzantium",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Blood Sport",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "001_000",
-                        "Name" : "Bruised Ego",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "001_003",
-                        "Name" : "Golden Warrior",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "001_004",
-                        "Name" : "Razer Chroma",
-                        "Rarity" : "L"
-                    }
-                ],
-                "knight" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Necrolancer",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Dark Knight",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Ravager",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Ultraviolent",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Molten",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Queensguard",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Prime",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "Ash and Bone",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "Dark Ranger",
-                        "Rarity" : "E"
-                    }
-                ],
-                "wings" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Hardlight",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Charred",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Blue Angel",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Cardinal",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_000",
-                        "Name" : "Ferrochrome",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_003",
-                        "Name" : "Trooper",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_004",
-                        "Name" : "Chrysalis",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "001_005",
-                        "Name" : "Electrum",
-                        "Rarity" : "L"
-                    }
-                ]
-            }
-        },
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
         {
-            "Name" : "Aurora",
-            "Display_Name" : "Aurora",
-            "Skins" : {
-                "ascension" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Voltaic",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Blackgold",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Alkaline",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Lithium",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Acid",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Scorched",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Emerald",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "Ferrochrome",
-                        "Rarity" : "L"
-                    }
-                ],
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Blaze",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Radon",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Argon",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Krypton",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Xenon",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Carbon",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_009",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    }
-                ],
-                "dark" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Necrolancer",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Dark Matter",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Blight",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Frostbite",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Spectral",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Ravager",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Molten",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "Oblivion",
-                        "Rarity" : "M"
-                    }
-                ],
-                "princess" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "UNKNOWN",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "UNK4",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "UNK5",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "UNK6",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "UNK7",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "UNK8",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK9",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK10",
-                        "Rarity" : "U"
-                    }
-                ]
-            }
-        },
+          "skin_id": "000_000", 
+          "skin_name": "Dark Knight", 
+          "rarity": "E"
+        }, 
         {
-            "Name" : "BlackBurn",
-            "Display_Name" : "Blackburn",
-            "Skins" : {
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Ares 1 Protosuit",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Squad Leader",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Waste Warfare",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Arctic Ops",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Redox",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "God of War",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "The Last Soldier",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_009",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    }
-                ],
-                "eliminator" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Eliminator",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Killer Robot",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Emotionless Executioner",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Spectral",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Crimson Cyborg",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Morpheus",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Prime",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "Scorched",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_009",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    }
-                ]
-            }
-        },
+          "skin_id": "000_001", 
+          "skin_name": "Ravager", 
+          "rarity": "E"
+        }, 
         {
-            "Name" : "Celeste",
-            "Display_Name" : "Celeste",
-            "Skins" : {
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Narcissus",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Imperial",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Lime",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Citadel",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Scorched",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Blood Sport",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Swindler",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_009",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    }
-                ],
-                "dress" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Masquerade",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Quartz",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Sapphire",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Jade",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Ruby",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Cardinal",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Ivory",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Beryl",
-                        "Rarity" : "E"
-                    }
-                ],
-                "actress-UNKNOWN" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Leading Lady",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "UNKNOWN",
-                        "Name" : "As You Wish",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "UNKNOWN",
-                        "Name" : "Beloved",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "UNKNOWN",
-                        "Name" : "Heartbreaker",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "UNKNOWN",
-                        "Name" : "Twue Wuv",
-                        "Rarity" : "M"
-                    }
-                ]
-            }
-        },
+          "skin_id": "000_002", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "L"
+        }, 
         {
-            "Name" : "DrFinn",
-            "Display_Name" : "Dr. Finn",
-            "Skins" : {
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Medicine Fish",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Oceanic",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Photosynthetic",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Ultraviolet",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Omega-12",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Red Tide",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Sterling Surfer",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_009",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_010",
-                        "Name" : "Razer Chroma",
-                        "Rarity" : "L"
-                    }
-                ],
-                "exotic" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Primal",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Clownin'",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Fishphorescent",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Ultramarine",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Terror of the Depths",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Coral",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "King of the Sea",
-                        "Rarity" : "M"
-                    }
-                ]
-            }
-        },
+          "skin_id": "000_004", 
+          "skin_name": "Molten", 
+          "rarity": "L"
+        }, 
         {
-            "Name" : "Elle",
-            "Display_Name" : "Elle",
-            "Skins" : {
-                "apocalypse" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Apocalypse",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Wastelander",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Hunter",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Ultraviolent",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "The Blues",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Blood Sport",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Prime",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Glacier",
-                        "Rarity" : "E"
-                    }
-                ],
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Guerrilla",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Garnet'",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Turquoise",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Citadel",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Solace",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Licorice",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Silver Age",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_009",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_010",
-                        "Name" : "Razer Chroma",
-                        "Rarity" : "L"
-                    }
-                ],
-                "military" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Great War",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Commandant'",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Attache",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Captain",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Major",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "Admiral",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "General",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Martial",
-                        "Rarity" : "L"
-                    }
-                ]
-            }
-        },
+          "skin_id": "000_005", 
+          "skin_name": "Queensguard", 
+          "rarity": "E"
+        }, 
         {
-            "Name" : "Garrison",
-            "Display_Name" : "Garrison",
-            "Skins" : {
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Savage Steel",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Pewter",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Citadel",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Desert Iron",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "Razer Chroma",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_000",
-                        "Name" : "Camouflage",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "001_001",
-                        "Name" : "Ferrochrome",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "001_004",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_006",
-                        "Name" : "Golden Warrior",
-                        "Rarity" : "M"
-                    }
-                ],
-                "demo" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Prototype",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Bronzed",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Chromoly",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Morpheus",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "Electrum",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_000",
-                        "Name" : "Destroyer",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_001",
-                        "Name" : "Linotype",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_003",
-                        "Name" : "Steel Scale",
-                        "Rarity" : "M"
-                    }
-                ]
-            }
-        },
+          "skin_id": "000_006", 
+          "skin_name": "Prime", 
+          "rarity": "M"
+        }, 
         {
-            "Name" : "GremolitionsInc",
-            "Display_Name" : "Gremolitions Inc.",
-            "Skins" : {
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Syndite",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Prototype",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Blood Sport",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_004",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_000",
-                        "Name" : "Photosynthetic",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "001_001",
-                        "Name" : "Mutation",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "001_002",
-                        "Name" : "Ultraviolet",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "001_003",
-                        "Name" : "Exobionic",
-                        "Rarity" : "M"
-                    }
-                ],
-                "santa" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Santa-UNKNOWN",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    }
-                ],
-                "army" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Great War",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Flak",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Tango",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Navy",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_000",
-                        "Name" : "Industrial",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_001",
-                        "Name" : "Crusader",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_003",
-                        "Name" : "Academy",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_004",
-                        "Name" : "Golden Warrior",
-                        "Rarity" : "M"
-                    }
-                ]
-            }
-        },
+          "skin_id": "000_007", 
+          "skin_name": "Ash and Bone", 
+          "rarity": "L"
+        }, 
         {
-            "Name" : "Grey",
-            "Display_Name" : "Grey",
-            "Skins" : {
-                "base" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Stalker",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Amber",
-                        "Rarity" : "C"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Charred",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_003",
-                        "Name" : "Turquoise",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Bloodlust",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "000_006",
-                        "Name" : "UNK1",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_007",
-                        "Name" : "UNK2",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_008",
-                        "Name" : "UNK3",
-                        "Rarity" : "U"
-                    },
-                    {
-                        "Id": "000_009",
-                        "Name" : "Golden Age",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_001",
-                        "Name" : "Hunter",
-                        "Rarity" : "R"
-                    },
-                    {
-                        "Id": "001_002",
-                        "Name" : "Citadel",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "001_004",
-                        "Name" : "Pearlite",
-                        "Rarity" : "L"
-                    }
-                ],
-                "tribal" : [
-                    {
-                        "Id": "Name",
-                        "Name" : "Untamed",
-                        "Rarity" : "Name"
-                    },
-                    {
-                        "Id": "000_000",
-                        "Name" : "Hawk",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_001",
-                        "Name" : "Sparhawk",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "000_002",
-                        "Name" : "Falcon",
-                        "Rarity" : "L"
-                    },
-                    {
-                        "Id": "000_005",
-                        "Name" : "Raven",
-                        "Rarity" : "M"
-                    },
-                    {
-                        "Id": "001_001",
-                        "Name" : "Shikra",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_002",
-                        "Name" : "Spectral",
-                        "Rarity" : "E"
-                    },
-                    {
-                        "Id": "001_003",
-                        "Name" : "Talon",
-                        "Rarity" : "L"
-                    }
-                ]
-            }
+          "skin_id": "000_008", 
+          "skin_name": "Dark Ranger", 
+          "rarity": "E"
         }
-    ]
-}
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Aerocarbon", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Steeled", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Scorched", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Byzantium", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Bruised Ego", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Golden Warrior", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Razer Chroma", 
+          "rarity": "L"
+        }
+      ], 
+      "wings": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Hardlight", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Charred", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Blue Angel", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Trooper", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Chrysalis", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "Electrum", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Asana", 
+    "display_name": "Asana", 
+    "Skins": {
+      "knight": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Knight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Ravager", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Molten", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Queensguard", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Prime", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Ash and Bone", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "Dark Ranger", 
+          "rarity": "E"
+        }
+      ], 
+      "wings": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Hardlight", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Charred", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Blue Angel", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Trooper", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Chrysalis", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "Electrum", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Asana", 
+    "display_name": "Asana", 
+    "Skins": {
+      "wings": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Hardlight", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Charred", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Blue Angel", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Trooper", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Chrysalis", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "Electrum", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Aurora", 
+    "display_name": "Aurora", 
+    "Skins": {
+      "ascension": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Voltaic", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Blackgold", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Alkaline", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Lithium", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Acid", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Scorched", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Emerald", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "L"
+        }
+      ], 
+      "dark": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Matter", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Blight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Frostbite", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Spectral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ravager", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Molten", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Oblivion", 
+          "rarity": "M"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Blaze", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Radon", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Argon", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Krypton", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Xenon", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Carbon", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }
+      ], 
+      "princess": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rime", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Hiemal", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Brumal", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Polar", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK10", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Aurora", 
+    "display_name": "Aurora", 
+    "Skins": {
+      "dark": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Matter", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Blight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Frostbite", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Spectral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ravager", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Molten", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Oblivion", 
+          "rarity": "M"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Blaze", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Radon", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Argon", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Krypton", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Xenon", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Carbon", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }
+      ], 
+      "princess": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rime", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Hiemal", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Brumal", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Polar", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK10", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Aurora", 
+    "display_name": "Aurora", 
+    "Skins": {
+      "dark": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Matter", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Blight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Frostbite", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Spectral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ravager", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Molten", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Oblivion", 
+          "rarity": "M"
+        }
+      ], 
+      "princess": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rime", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Hiemal", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Brumal", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Polar", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK10", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Aurora", 
+    "display_name": "Aurora", 
+    "Skins": {
+      "princess": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rime", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Hiemal", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Brumal", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Polar", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK10", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "BlackBurn", 
+    "display_name": "Blackburn", 
+    "Skins": {
+      "eliminator": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Eliminator", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Killer Robot", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Emotionless Executioner", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Spectral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Crimson Cyborg", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Morpheus", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Prime", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Scorched", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Ares 1 Protosuit", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Squad Leader", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Waste Warfare", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Arctic Ops", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "God of War", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "The Last Soldier", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "BlackBurn", 
+    "display_name": "Blackburn", 
+    "Skins": {
+      "eliminator": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Eliminator", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Killer Robot", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Emotionless Executioner", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Spectral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Crimson Cyborg", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Morpheus", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Prime", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Scorched", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Celeste", 
+    "display_name": "Celeste", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Narcissus", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Imperial", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Lime", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Scorched", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Swindler", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }
+      ], 
+      "dress": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Masquerade", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Quartz", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Sapphire", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Jade", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Ruby", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Ivory", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Beryl", 
+          "rarity": "E"
+        }
+      ], 
+      "actress-UNKNOWN": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Leading Lady", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "UNKNOWN", 
+          "skin_name": "As You Wish", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "UNKNOWN", 
+          "skin_name": "Beloved", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "UNKNOWN", 
+          "skin_name": "Heartbreaker", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "UNKNOWN", 
+          "skin_name": "Twue Wuv", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Celeste", 
+    "display_name": "Celeste", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Narcissus", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Imperial", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Lime", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Scorched", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Swindler", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }
+      ], 
+      "dress": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Masquerade", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Quartz", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Sapphire", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Jade", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Ruby", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Ivory", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Beryl", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Celeste", 
+    "display_name": "Celeste", 
+    "Skins": {
+      "dress": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Masquerade", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Quartz", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Sapphire", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Jade", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Ruby", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Ivory", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Beryl", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "DrFinn", 
+    "display_name": "Dr. Finn", 
+    "Skins": {
+      "exotic": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Primal", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Clownin'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Fishphorescent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultramarine", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Terror of the Depths", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Coral", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "King of the Sea", 
+          "rarity": "M"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Medicine Fish", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Oceanic", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Photosynthetic", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultraviolet", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Omega-12", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Red Tide", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Sterling Surfer", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_010", 
+          "skin_name": "Razer Chroma", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "DrFinn", 
+    "display_name": "Dr. Finn", 
+    "Skins": {
+      "exotic": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Primal", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Clownin'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Fishphorescent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultramarine", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Terror of the Depths", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Coral", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "King of the Sea", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Elle", 
+    "display_name": "Elle", 
+    "Skins": {
+      "military": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Great War", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Commandant'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Attache", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Captain", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Major", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Admiral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "General", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Martial", 
+          "rarity": "L"
+        }
+      ], 
+      "apocalypse": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Apocalypse", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Wastelander", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Hunter", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "The Blues", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Prime", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Glacier", 
+          "rarity": "E"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Guerrilla", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Garnet'", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Turquoise", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Solace", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Licorice", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Silver Age", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_010", 
+          "skin_name": "Razer Chroma", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Elle", 
+    "display_name": "Elle", 
+    "Skins": {
+      "military": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Great War", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Commandant'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Attache", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Captain", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Major", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Admiral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "General", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Martial", 
+          "rarity": "L"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Guerrilla", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Garnet'", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Turquoise", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Solace", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Licorice", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Silver Age", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_010", 
+          "skin_name": "Razer Chroma", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Elle", 
+    "display_name": "Elle", 
+    "Skins": {
+      "military": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Great War", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Commandant'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Attache", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Captain", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Major", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Admiral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "General", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Martial", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Garrison", 
+    "display_name": "Garrison", 
+    "Skins": {
+      "demo": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Prototype", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Bronzed", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Morpheus", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Electrum", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Destroyer", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Linotype", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Steel Scale", 
+          "rarity": "M"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Savage Steel", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Pewter", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Desert Iron", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "Razer Chroma", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Camouflage", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_006", 
+          "skin_name": "Golden Warrior", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Garrison", 
+    "display_name": "Garrison", 
+    "Skins": {
+      "demo": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Prototype", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Bronzed", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Morpheus", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Electrum", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Destroyer", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Linotype", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Steel Scale", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "GremolitionsInc", 
+    "display_name": "Gremolitions Inc.", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Syndite", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Prototype", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Photosynthetic", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Mutation", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Ultraviolet", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Exobionic", 
+          "rarity": "M"
+        }
+      ], 
+      "santa": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Slay Ride", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rude-Olph", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Vexin'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Dasher", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Bomber", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Comet Me Bro", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Lancer", 
+          "rarity": "E"
+        }
+      ], 
+      "army": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Great War", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Flak", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Tango", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Navy", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Industrial", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Crusader", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Academy", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Golden Warrior", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "GremolitionsInc", 
+    "display_name": "Gremolitions Inc.", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Syndite", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Prototype", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Photosynthetic", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Mutation", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Ultraviolet", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Exobionic", 
+          "rarity": "M"
+        }
+      ], 
+      "santa": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Slay Ride", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rude-Olph", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Vexin'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Dasher", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Bomber", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Comet Me Bro", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Lancer", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "GremolitionsInc", 
+    "display_name": "Gremolitions Inc.", 
+    "Skins": {
+      "santa": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Slay Ride", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rude-Olph", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Vexin'", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Dasher", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Bomber", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Comet Me Bro", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Lancer", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Grey", 
+    "display_name": "Grey", 
+    "Skins": {
+      "tribal": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Untamed", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Hawk", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Sparhawk", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Falcon", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Raven", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Shikra", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Spectral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Talon", 
+          "rarity": "L"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Stalker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Amber", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Charred", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Turquoise", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Bloodlust", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Hunter", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Citadel", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Pearlite", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Grey", 
+    "display_name": "Grey", 
+    "Skins": {
+      "tribal": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Untamed", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Hawk", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Sparhawk", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Falcon", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Raven", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Shikra", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Spectral", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Talon", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Helio", 
+    "display_name": "Helio", 
+    "Skins": {
+      "scientist": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Mastermind", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Union", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ionic", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Galvanic", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Halogen", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Superconductor", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Oxidize", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Valence", 
+          "rarity": "M"
+        }
+      ], 
+      "frost": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK5", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Jack", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Miser", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Jotun", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK11", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Glacier", 
+          "rarity": "E"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Nanosuit", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Forged", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Imperial", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Flaming Rose", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Samite", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Byzantium", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Morpheus", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_011", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }
+      ], 
+      "space": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Moonwalker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Grey Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Golden Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Blue Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Fractal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Diamondoid", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Scorched", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Helio", 
+    "display_name": "Helio", 
+    "Skins": {
+      "scientist": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Mastermind", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Union", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ionic", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Galvanic", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Halogen", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Superconductor", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Oxidize", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Valence", 
+          "rarity": "M"
+        }
+      ], 
+      "frost": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK5", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Jack", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Miser", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Jotun", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK11", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Glacier", 
+          "rarity": "E"
+        }
+      ], 
+      "space": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Moonwalker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Grey Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Golden Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Blue Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Fractal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Diamondoid", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Scorched", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Helio", 
+    "display_name": "Helio", 
+    "Skins": {
+      "scientist": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Mastermind", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Union", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ionic", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Galvanic", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Halogen", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Superconductor", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Oxidize", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Valence", 
+          "rarity": "M"
+        }
+      ], 
+      "space": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Moonwalker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Grey Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Golden Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Blue Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Fractal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Diamondoid", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Scorched", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Helio", 
+    "display_name": "Helio", 
+    "Skins": {
+      "space": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Moonwalker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Grey Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Golden Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Blue Goo", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Fractal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Diamondoid", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Scorched", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Juno", 
+    "display_name": "Juno", 
+    "Skins": {
+      "apocalypse": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Apocalypse", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Wastelander", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Hunter", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Byzantium", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }
+      ], 
+      "buster": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Buster", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Positron", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Ectoplasm", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Neutron", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Proton", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK10", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Accelerator", 
+          "rarity": "E"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Titan Frame", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Amber", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Terran", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Glacier", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Bloodlust", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Specter", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK5", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Juno", 
+    "display_name": "Juno", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Titan Frame", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Amber", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Terran", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Glacier", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Bloodlust", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Specter", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK5", 
+          "rarity": "U"
+        }
+      ], 
+      "buster": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Buster", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Positron", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Ectoplasm", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Neutron", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Proton", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK10", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Accelerator", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Juno", 
+    "display_name": "Juno", 
+    "Skins": {
+      "buster": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Buster", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Positron", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Ectoplasm", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Neutron", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Proton", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK10", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Accelerator", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Kaigin", 
+    "display_name": "Kaigin", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Covert", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Blackout", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Scorched", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Dragonscale", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Vapor", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Stoic", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_010", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }
+      ], 
+      "monk": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Dojo", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Charred", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Jade", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Rasputin", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Citadel", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Avatar", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Samite", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Kaigin", 
+    "display_name": "Kaigin", 
+    "Skins": {
+      "monk": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Dojo", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Charred", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Jade", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Rasputin", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Citadel", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Avatar", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Samite", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Lockwood", 
+    "display_name": "Lockwood", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Deadeye", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Cobalt", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Flaming Rose", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Citadel", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Black and Bone", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_011", 
+          "skin_name": "Razer Chroma", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_010", 
+          "skin_name": "RazerChroma", 
+          "rarity": "L"
+        }
+      ], 
+      "western": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Unforgiven", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Badger", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Thunderstorm", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Lucky Strike", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Midnight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Salt of the Earth", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Golden Gun", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Raven", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Lockwood", 
+    "display_name": "Lockwood", 
+    "Skins": {
+      "western": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Unforgiven", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Badger", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Thunderstorm", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Lucky Strike", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Midnight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Salt of the Earth", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Golden Gun", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Raven", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Nix", 
+    "display_name": "Nix", 
+    "Skins": {
+      "gangster": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Loot Suit", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Velvet", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Bruised Ego", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Olive", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Untouchable", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Baron", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Bittersweet", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "The Don", 
+          "rarity": "M"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Protoweave", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Photosynthetic", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Omega-12", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Void", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Mutation", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }
+      ], 
+      "holiday": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Iceman", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Yeti", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Blizzard", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK9", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Rime", 
+          "rarity": "L"
+        }
+      ], 
+      "dwarf": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Hammerknell", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Borrin", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Solya", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Thorvan", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Karine", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Asphodel", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Dolin", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Molinar", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Nix", 
+    "display_name": "Nix", 
+    "Skins": {
+      "gangster": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Loot Suit", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Velvet", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Bruised Ego", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Olive", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Untouchable", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Baron", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Bittersweet", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "The Don", 
+          "rarity": "M"
+        }
+      ], 
+      "holiday": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Iceman", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Yeti", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Blizzard", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK9", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Rime", 
+          "rarity": "L"
+        }
+      ], 
+      "dwarf": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Hammerknell", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Borrin", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Solya", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Thorvan", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Karine", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Asphodel", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Dolin", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Molinar", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Nix", 
+    "display_name": "Nix", 
+    "Skins": {
+      "gangster": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Loot Suit", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Velvet", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Bruised Ego", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Olive", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Untouchable", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Baron", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Bittersweet", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "The Don", 
+          "rarity": "M"
+        }
+      ], 
+      "holiday": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Iceman", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Yeti", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Blizzard", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK9", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Rime", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Nix", 
+    "display_name": "Nix", 
+    "Skins": {
+      "holiday": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Frostover", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Iceman", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Yeti", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Blizzard", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "UNK8", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK9", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Rime", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Orion", 
+    "display_name": "Orion", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Cosmos", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Demigod", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Comet", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Borealis", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Starshine", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Apex", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }
+      ], 
+      "greekgod": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Colossus", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Perseus", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Orpheus", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Heracles", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ganymede", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Orion", 
+    "display_name": "Orion", 
+    "Skins": {
+      "greekgod": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Colossus", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Perseus", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Orpheus", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Heracles", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ganymede", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Oz", 
+    "display_name": "Oz", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Pop Top", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Gunmetal", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Patina", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Stencil", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Tin Roof", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Chrome Craftsman", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golde Age", 
+          "rarity": "L"
+        }
+      ], 
+      "magician": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Jimmy Six", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Illusionist", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Leprechaun", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Dapper", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ringleader", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Prime", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Oz", 
+    "display_name": "Oz", 
+    "Skins": {
+      "magician": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Jimmy Six", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Illusionist", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Leprechaun", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Dapper", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ringleader", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Prime", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Phaedra", 
+    "display_name": "Phaedra", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Abomination", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Depths Stalker", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Nightmare", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Crimson Terror", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Photosynthetic", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Polaris", 
+          "rarity": "R"
+        }
+      ], 
+      "tree": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Overgrowth", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Ivy", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Kudzu", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Firethorn", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Vetch", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Woodbine", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Akebia", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Wisteria", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Phaedra", 
+    "display_name": "Phaedra", 
+    "Skins": {
+      "tree": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Overgrowth", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Ivy", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Kudzu", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Firethorn", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Vetch", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Woodbine", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Akebia", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Wisteria", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "PuP", 
+    "display_name": "PuP", 
+    "Skins": {
+      "industrial": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Prototype", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Iron Whiskers", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Rust", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Morpheus", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Redox", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_006", 
+          "skin_name": "Chromium", 
+          "rarity": "M"
+        }
+      ], 
+      "junkyard": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Junkyard", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Red Rover", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "RAF RAF", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Cobbled K9", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Brass Tracks", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Hound Cog", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Devil Dog", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Polaris", 
+          "rarity": "L"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Deco", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Gloss", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Hazmat", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Bulldozer", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Bismuth", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Adopt-A-PuP", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Black & Bone", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "PuP", 
+    "display_name": "PuP", 
+    "Skins": {
+      "junkyard": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Junkyard", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Red Rover", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "RAF RAF", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Cobbled K9", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Brass Tracks", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Hound Cog", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Devil Dog", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Polaris", 
+          "rarity": "L"
+        }
+      ], 
+      "industrial": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Prototype", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Iron Whiskers", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Rust", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Morpheus", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Redox", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_006", 
+          "skin_name": "Chromium", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "PuP", 
+    "display_name": "PuP", 
+    "Skins": {
+      "junkyard": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Junkyard", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Red Rover", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "RAF RAF", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Cobbled K9", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Brass Tracks", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Hound Cog", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Devil Dog", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Polaris", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Quark", 
+    "display_name": "Quark", 
+    "Skins": {
+      "ghost": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Phantasm", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Spook", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Haunt", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Luminous", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Xenon", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Radon", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Neon", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Radium", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Iodized", 
+          "rarity": "R"
+        }
+      ], 
+      "rock": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Unobtainium", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Chromium", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Azurite", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Sunstone", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Topaz", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Gypsum", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Igneus", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "Fool's Gold", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Quark", 
+    "display_name": "Quark", 
+    "Skins": {
+      "ghost": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Phantasm", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Spook", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Haunt", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }
+      ], 
+      "rock": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Unobtainium", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Chromium", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Azurite", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Sunstone", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Topaz", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Gypsum", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Igneus", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "Fool's Gold", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Quark", 
+    "display_name": "Quark", 
+    "Skins": {
+      "rock": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Unobtainium", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Chromium", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Azurite", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_001", 
+          "skin_name": "Sunstone", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_002", 
+          "skin_name": "Topaz", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_003", 
+          "skin_name": "Gypsum", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "001_004", 
+          "skin_name": "Igneus", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "001_005", 
+          "skin_name": "Fool's Gold", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Rampart", 
+    "display_name": "Rampart", 
+    "Skins": {
+      "knight": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Centurion", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Golden Era", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Sterling", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Gunmetal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "M"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Exoframe", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Rust", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Patina", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Brushed Carbon", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Renaissance", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Rampart", 
+    "display_name": "Rampart", 
+    "Skins": {
+      "knight": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Centurion", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Golden Era", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Sterling", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Gunmetal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Ferrochrome", 
+          "rarity": "M"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Rask", 
+    "display_name": "Rask", 
+    "Skins": {
+      "zombie": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Patient 0", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Contaminated", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Infected", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Putrid", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Beserker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Militant", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Oceanic", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Photosynthetic", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Red Tide", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Samite", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_010", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_011", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }
+      ], 
+      "tech": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Warforged", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Sterling", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Patina", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Gunmetal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Golden Warrior", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Rage Machine", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Rask", 
+    "display_name": "Rask", 
+    "Skins": {
+      "zombie": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Patient 0", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Contaminated", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Infected", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Putrid", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }
+      ], 
+      "tech": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Warforged", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Sterling", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Patina", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Chromoly", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Redox", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Gunmetal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Golden Warrior", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Rage Machine", 
+          "rarity": "L"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Rask", 
+    "display_name": "Rask", 
+    "Skins": {
+      "zombie": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Patient 0", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Contaminated", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Infected", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Putrid", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "SuRen", 
+    "display_name": "Su-ren", 
+    "Skins": {
+      "holiday": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Holiday Cheer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Gala", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Shindig", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK5", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Party", 
+          "rarity": "E"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Dojo", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Focus", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Citadel", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Polaris", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Flaming Rose", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Byzantium", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Goden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Renaissance", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "Razer Chroma", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_010", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_011", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }
+      ], 
+      "soriyama": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Nidus", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Patience", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Virtue", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Tranquility", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Meditation", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Spirited", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Magnanimous", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Reflection", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Furikaeshi", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "SuRen", 
+    "display_name": "Su-ren", 
+    "Skins": {
+      "soriyama": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Nidus", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Patience", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Virtue", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Tranquility", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Meditation", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Spirited", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Magnanimous", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Reflection", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Furikaeshi", 
+          "rarity": "E"
+        }
+      ], 
+      "holiday": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Holiday Cheer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Gala", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Shindig", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK5", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK6", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Party", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "SuRen", 
+    "display_name": "Su-ren", 
+    "Skins": {
+      "soriyama": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Nidus", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Patience", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Virtue", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Tranquility", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Meditation", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Spirited", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Magnanimous", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Reflection", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Furikaeshi", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Titus", 
+    "display_name": "Titus", 
+    "Skins": {
+      "knight": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Knight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Destroyer", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Soulless", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Oblivion", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Prime", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Corruptor", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Molten", 
+          "rarity": "E"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Champion", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Olive", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Wanderer", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Steeled", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Citadel", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }
+      ], 
+      "halloween": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Slasher", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Grave Rot", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Terror", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Dread", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Pustulent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }
+      ], 
+      "barbarian": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Untamed", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Clay", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Granite", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Slate", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Basalt", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Sandstone", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Platinum", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Shale", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Titus", 
+    "display_name": "Titus", 
+    "Skins": {
+      "knight": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Knight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Destroyer", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Soulless", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Oblivion", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Prime", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Corruptor", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Molten", 
+          "rarity": "E"
+        }
+      ], 
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Champion", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Olive", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Wanderer", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Steeled", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Blood Sport", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Citadel", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_009", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }
+      ], 
+      "halloween": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Slasher", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Grave Rot", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Terror", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Dread", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Pustulent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Titus", 
+    "display_name": "Titus", 
+    "Skins": {
+      "knight": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Knight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Destroyer", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Soulless", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Oblivion", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Prime", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Corruptor", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Molten", 
+          "rarity": "E"
+        }
+      ], 
+      "halloween": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Slasher", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Grave Rot", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Terror", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Dread", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Pustulent", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK7", 
+          "rarity": "U"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Titus", 
+    "display_name": "Titus", 
+    "Skins": {
+      "knight": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Necrolancer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Dark Knight", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Destroyer", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Soulless", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Oblivion", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Prime", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Corruptor", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "Molten", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Zuki", 
+    "display_name": "Zuki", 
+    "Skins": {
+      "base": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Rocketeer", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Chocolate", 
+          "rarity": "C"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Blueberry", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Licorice", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Golden Age", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "UNK1", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "UNK2", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_007", 
+          "skin_name": "UNK3", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "000_008", 
+          "skin_name": "UNK4", 
+          "rarity": "U"
+        }, 
+        {
+          "skin_id": "001_000", 
+          "skin_name": "Smoke", 
+          "rarity": "R"
+        }, 
+        {
+          "skin_id": "002_000", 
+          "skin_name": "Olive", 
+          "rarity": "M"
+        }
+      ], 
+      "cosmonaut": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Moonwalker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Hazmat", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Cosmonaut", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Space Dust", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Ionosphere", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Samite", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Orbital", 
+          "rarity": "E"
+        }
+      ], 
+      "freebooter": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Freebooter", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Sky Pirate", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Jade Marauder", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Blue Sky Buccaneer", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Crimson Corsair", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Pirate Queen", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Privateer", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Zuki", 
+    "display_name": "Zuki", 
+    "Skins": {
+      "cosmonaut": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Moonwalker", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Hazmat", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Cosmonaut", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Space Dust", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Ionosphere", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Cardinal", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Samite", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Orbital", 
+          "rarity": "E"
+        }
+      ], 
+      "freebooter": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Freebooter", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Sky Pirate", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Jade Marauder", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Blue Sky Buccaneer", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Crimson Corsair", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Pirate Queen", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Privateer", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }, 
+  {
+    "lancer_name": "Zuki", 
+    "display_name": "Zuki", 
+    "Skins": {
+      "freebooter": [
+        {
+          "skin_id": "Name", 
+          "skin_name": "Freebooter", 
+          "rarity": "Name"
+        }, 
+        {
+          "skin_id": "000_000", 
+          "skin_name": "Sky Pirate", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_001", 
+          "skin_name": "Jade Marauder", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_002", 
+          "skin_name": "Ultraviolent", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_003", 
+          "skin_name": "Blue Sky Buccaneer", 
+          "rarity": "E"
+        }, 
+        {
+          "skin_id": "000_004", 
+          "skin_name": "Crimson Corsair", 
+          "rarity": "L"
+        }, 
+        {
+          "skin_id": "000_005", 
+          "skin_name": "Pirate Queen", 
+          "rarity": "M"
+        }, 
+        {
+          "skin_id": "000_006", 
+          "skin_name": "Privateer", 
+          "rarity": "E"
+        }
+      ]
+    }
+  }
+]

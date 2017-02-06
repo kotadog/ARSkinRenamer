@@ -2,12 +2,14 @@ import os
 import shutil
 from ARSkinFilenameParser import ARSkinFilenameParser
 from ARConfigReader import ARConfigReader
+from ARConstants import ARConstants
 import ARArgParser
 
 
 class RenameSkinsAR:
     def __init__(self, config_file, path_to_skins=None):
         self.config_reader = ARConfigReader(config_file)
+        self.constants = ARConstants()
         self.arsfp = ARSkinFilenameParser()
         self.path_to_skins = path_to_skins
 
@@ -112,7 +114,7 @@ class RenameSkinsAR:
         return output
 
     def gen_newname(self, lancer, style, name):
-        return "-".join([lancer, "Style", name])
+        return "-".join([lancer, style, name])
 
     def perform_rename(self, skin_names):
         source_rt = self.get_dir()
@@ -131,13 +133,13 @@ class RenameSkinsAR:
         output = []
         for style, ids in skins.iteritems():
             for skin in ids:
-                if skin['Rarity'] == 'U' or skin['Rarity'] == 'Name':
+                if skin[self.constants.rarity] == 'U' or skin[self.constants.rarity] == 'Name':
                     continue
                 new_wiki = "".join([
                     '{{Style|',
-                    skin['Name'],
+                    skin[self.constants.skin_name],
                     "|",
-                    skin['Rarity'],
+                    skin[self.constants.rarity],
                     '}}'])
                 output.append(new_wiki)
         result = " ".join(output)
